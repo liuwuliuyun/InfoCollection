@@ -4,6 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 .vs/
+WebRole1/Web.config
 
 # Other files and folders
 .settings/
