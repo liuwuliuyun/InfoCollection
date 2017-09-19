@@ -31,14 +31,9 @@ My Visual Studio Version: Community 2017 Version 15.3.3
 ### Copyright
 All intern projects' copyright is belonged to Microsoft. You shall not use this project for any commertial activity.
 
-[1] About *HoloMessages*
-
-*HoloMessages* is an close source intern project of Microsoft. 
-
-Designers: Yun Liu, Dongze Li, Roqi Tang, Gang Pan and Jimmy Zhu (Order does not matter).
-
-*HoloMessages* is an HoloLens&copy; application can be find on Windows Store.
-
-You can download the current version at https://www.microsoft.com/en-sg/store/p/holomessages/9n8gpmxm5vcw.
-
+[1] About *HoloMessages*</br>
+*HoloMessages* is an close source intern project of Microsoft. </br>
+Designers: Yun Liu, Dongze Li, Roqi Tang, Gang Pan and Jimmy Zhu (Order does not matter).</br>
+*HoloMessages* is an HoloLens&copy; application can be find on Windows Store.</br>
+You can download the current version at https://www.microsoft.com/en-sg/store/p/holomessages/9n8gpmxm5vcw.</br>
 However, current version of HoloMessages on Windows Store does **not** support userinfo collection for privacy concern.
