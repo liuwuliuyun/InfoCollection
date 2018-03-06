@@ -29,7 +29,7 @@ My Visual Studio Version: Community 2017 Version 15.3.3
 
 
 ### Copyright
-All intern projects' copyright is belonged to Microsoft. You shall not use this project for any commertial activity.
+All intern projects' copyright belongs to Microsoft. You shall not use this project for any commertial activity.
 
 [1] About *HoloMessages*</br>
 *HoloMessages* is an close source intern project of Microsoft. </br>
